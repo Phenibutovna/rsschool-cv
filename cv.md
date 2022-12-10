@@ -12,5 +12,18 @@
    * VS Code - in process
    * JS - in process
 ## Code example
-## The first task from Codewars
- 
+#### The first task from Codewars
+ ``` 
+ function multiply(a, b){
+  a * b
+}
+```
+## Education
+* Gomel State Medical University
+## Courses
+* RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+## Languages
+* Russian native
+* English B1
+
+
