@@ -13,7 +13,7 @@
    * VS Code - in process
    * JS - in process
 ## Code example
-#### The first task from Codewars
+#### task from Codewars
  ``` 
  function multiply(a, b){
   a * b
